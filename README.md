@@ -23,13 +23,13 @@ To install the program you would download the repository. Then you would use the
 -npm install sequelize
 -npm install dotenv
 
+-Any testing can be done once the program is running via Insomnia.
+
 
 ## How do you use the program?
 
 You would run the program by starting up MySql by typing in mysql -u root -p. You will then have a password that you will have created on MySql's website. Then if brand new you will Create the Database using "CREATE (name_db)".  Your dotenv file will contain this information as well. Then the command "USE (name_db)" it should show that your are now in the correct file. After that you will go back to your regular terminal but leave mysql open.  
 At that point, if you have a pre-populated seed folder with your current inventory type "npm run seed". After thatt "npm start". And once that is complete you are off to the races!!  You should see that the program is now running on the designated port.  
-
--It is at this point that you can open the port in insomnia to test your program.
 
 ### What language or programs did you use?
 
