@@ -19,17 +19,16 @@ We learned to create an inventory manager via tools like MySql and Express and t
 
 To install the program you would download the repository. Then you would use the following commands in your terminal in order for it to function properly.
 -npm init
--npm install  (this should install your programs but you want to make sure you also install the following)
+-npm install (this should install your programs but you want to make sure you also install the following)
 -npm install sequelize
 -npm install dotenv
 
 -Any testing can be done once the program is running via Insomnia.
 
+## Usage
 
-## How do you use the program?
-
-You would run the program by starting up MySql by typing in mysql -u root -p. You will then have a password that you will have created on MySql's website. Then if brand new you will Create the Database using "CREATE (name_db)".  Your dotenv file will contain this information as well. Then the command "USE (name_db)" it should show that your are now in the correct file. After that you will go back to your regular terminal but leave mysql open.  
-At that point, if you have a pre-populated seed folder with your current inventory type "npm run seed". After thatt "npm start". And once that is complete you are off to the races!!  You should see that the program is now running on the designated port.  
+You would run the program by starting up MySql by typing in mysql -u root -p. You will then have a password that you will have created on MySql's website. Then if brand new you will Create the Database using "CREATE (name_db)". Your dotenv file will contain this information as well. Then the command "USE (name_db)" it should show that your are now in the correct file. After that you will go back to your regular terminal but leave mysql open.  
+At that point, if you have a pre-populated seed folder with your current inventory type "npm run seed". After thatt "npm start". And once that is complete you are off to the races!! You should see that the program is now running on the designated port.
 
 ### What language or programs did you use?
 
