@@ -42,6 +42,12 @@ I have been trying to think of ways to incorporate it into an existing site as I
 
 I learned more about routes and models and mysql than I have on anything else so far. I had to turn it in late because I had a hard time but that ended up being a blessing because I feel that I know much more now than I would have if it had gone smoothly. Errors just become ways to learn.
 
+### Screenshots
+![Creating Category](https://user-images.githubusercontent.com/94770081/164959094-fb887414-8bc1-4dd8-8b0c-5a2cdf66e4aa.jpg)
+
+![Getting all products including new](https://user-images.githubusercontent.com/94770081/164959103-0e3e5ea5-a4b6-4df7-b8a6-f24fc4a2d2cf.jpg)
+
+
 ## License
 
 MIT
