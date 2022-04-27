@@ -23,7 +23,12 @@ To install the program you would download the repository. Then you would use the
 -npm install sequelize
 -npm install dotenv
 
--Any testing can be done once the program is running via Insomnia.
+-Any testing can be done once the program is running via Insomnia see videos below for tutorial
+-Part 1 mysql through opening Insomnia
+https://drive.google.com/file/d/1OvaJjeNuOwx94DBtGw_W_p0pokgzLYsI/view
+
+-Part 2 Running/Testing with Insomnia
+https://drive.google.com/file/d/1YJxFpBOxv0ggaDA93iX9_O3RSTiUE_ZP/view
 
 ## Usage
 
